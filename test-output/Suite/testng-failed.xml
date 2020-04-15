@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.crossasyst.test.TestAutomationPractice">
+        <methods>
+          <include name="verifySearchButton"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.crossasyst.test.TestAutomationPractice -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
