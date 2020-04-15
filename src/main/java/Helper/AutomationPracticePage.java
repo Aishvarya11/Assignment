@@ -143,7 +143,7 @@ public class AutomationPracticePage {
 		return PageFactory.initElements(driver, AutomationPracticePage.class);
 	}
 
-	/*to create new account first enter valid user details in config*/
+	/*To create new user account ,first enter valid user details in properties file*/
 	@SuppressWarnings("deprecation")
 	public void createAccount(WebDriver driver) throws IOException {
 		Properties prop=new Properties();
