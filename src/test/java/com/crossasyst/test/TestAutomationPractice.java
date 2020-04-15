@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import Helper.AutomationPracticePage;
 
 /**
- * @Summary: The test class to place a order on automation practice website.
+ * @Summary: The test class to place an order on automation practice website.
  * @author: Aishvarya Nagaonkar
  * @date: 4/15/2020
  */
