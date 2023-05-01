@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
 		<selenium.version>4.0.0-alpha-5</selenium.version>
-		<testng.version>6.14.3</testng.version>
+		<testng.version>7.7.0</testng.version>
 		<testNGSourceDirectory>src/test/resources</testNGSourceDirectory>
 	</properties>
 	<dependencies>
